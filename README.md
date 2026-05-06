@@ -42,12 +42,15 @@ The project contains multiple classes including:
 - JUnit
 
 ## Team Members
+- Renad Khormi
+- Basma Jameel 
 - Haya Alsaab
 - Sara Alzahrani
-- Talen Alharbi
+- Layan Alsharif 
 
 ## Supervisor
-Latifa Almalki
+Muna Altherwi
+
 
 ## University
 University of Jeddah  
